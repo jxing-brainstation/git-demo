@@ -1,7 +1,7 @@
 We are learning about git add! We are adding another line to this file! let's
 add a new line
 
-# commands we ran this demo:
+# commands we ran during the first Git Lecure Demo:
 
 mkdir git-demo
 
