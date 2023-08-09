@@ -1,4 +1,5 @@
-How to work with git:
+Let's learn about git flow!
 
-- never keep your develop branch up to date
-- merge your code into develop without a pull request
+1. keeping your develop branch up to date with the remote
+2. fixing merge conflicts
+3. creating and reviewing pull requests
